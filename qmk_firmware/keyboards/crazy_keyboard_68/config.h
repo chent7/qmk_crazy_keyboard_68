@@ -126,7 +126,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
 /* better polling rate and input */
 #define USB_POLLING_INTERVAL_MS 1
-#define QMK_KEYS_PER_SCAN 12
+#define QMK_KEYS_PER_SCAN 4
 
 /*
  * Feature disable options
